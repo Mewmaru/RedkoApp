@@ -1,0 +1,5 @@
+C:\Users\Linford\Desktop\Барков\Редько\RedkoApp\RedkoLib\bin\Debug\RedkoLib.dll
+C:\Users\Linford\Desktop\Барков\Редько\RedkoApp\RedkoLib\bin\Debug\RedkoLib.pdb
+C:\Users\Linford\Desktop\Барков\Редько\RedkoApp\RedkoLib\obj\Debug\RedkoLib.dll
+C:\Users\Linford\Desktop\Барков\Редько\RedkoApp\RedkoLib\obj\Debug\RedkoLib.pdb
+C:\Users\Linford\Desktop\Барков\Редько\RedkoApp\RedkoLib\obj\Debug\RedkoLib.csprojResolveAssemblyReference.cache

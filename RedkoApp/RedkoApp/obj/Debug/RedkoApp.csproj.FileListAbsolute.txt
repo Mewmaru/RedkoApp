@@ -1,0 +1,11 @@
+C:\Users\Linford\Desktop\Барков\Редько\RedkoApp\RedkoApp\bin\Debug\RedkoApp.exe.config
+C:\Users\Linford\Desktop\Барков\Редько\RedkoApp\RedkoApp\bin\Debug\RedkoApp.exe
+C:\Users\Linford\Desktop\Барков\Редько\RedkoApp\RedkoApp\bin\Debug\RedkoApp.pdb
+C:\Users\Linford\Desktop\Барков\Редько\RedkoApp\RedkoApp\obj\Debug\RedkoApp.csprojResolveAssemblyReference.cache
+C:\Users\Linford\Desktop\Барков\Редько\RedkoApp\RedkoApp\obj\Debug\RedkoApp.Properties.Resources.resources
+C:\Users\Linford\Desktop\Барков\Редько\RedkoApp\RedkoApp\obj\Debug\RedkoApp.csproj.GenerateResource.Cache
+C:\Users\Linford\Desktop\Барков\Редько\RedkoApp\RedkoApp\obj\Debug\RedkoApp.exe
+C:\Users\Linford\Desktop\Барков\Редько\RedkoApp\RedkoApp\obj\Debug\RedkoApp.pdb
+C:\Users\Linford\Desktop\Барков\Редько\RedkoApp\RedkoApp\bin\Debug\RedkoLib.dll
+C:\Users\Linford\Desktop\Барков\Редько\RedkoApp\RedkoApp\bin\Debug\RedkoLib.pdb
+C:\Users\Linford\Desktop\Барков\Редько\RedkoApp\RedkoApp\obj\Debug\RedkoApp.Form1.resources

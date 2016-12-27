@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedkoApp", "RedkoApp\RedkoApp.csproj", "{E5E91954-EAFC-4B8F-B5DC-61793F120341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedkoLib", "RedkoLib\RedkoLib.csproj", "{311912BF-AF4C-4635-AD0A-F36D3732926A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedkoTest", "RedkoTest\RedkoTest.csproj", "{5798EF40-00E3-414F-9977-83F0FEE1E118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5E91954-EAFC-4B8F-B5DC-61793F120341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E91954-EAFC-4B8F-B5DC-61793F120341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E91954-EAFC-4B8F-B5DC-61793F120341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E91954-EAFC-4B8F-B5DC-61793F120341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{311912BF-AF4C-4635-AD0A-F36D3732926A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{311912BF-AF4C-4635-AD0A-F36D3732926A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{311912BF-AF4C-4635-AD0A-F36D3732926A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{311912BF-AF4C-4635-AD0A-F36D3732926A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5798EF40-00E3-414F-9977-83F0FEE1E118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5798EF40-00E3-414F-9977-83F0FEE1E118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5798EF40-00E3-414F-9977-83F0FEE1E118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5798EF40-00E3-414F-9977-83F0FEE1E118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
